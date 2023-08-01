@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bda41053-545c-4ed0-aa4b-1337b5b10e32" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iUFEvXYGHQgbVaOvGqAah8dsN9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.SHOW" value="true" />
+    <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH" value="103" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.SHOW" value="true" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH" value="316" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\student information and management system\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.drive">
+    <configuration name="BackgroundImageJFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BackgroundImageJFrame" />
+      <module name="student information and management system" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="drive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="drive" />
+      <module name="student information and management system" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="login_form" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="login_form" />
+      <module name="student information and management system" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.drive" />
+        <item itemvalue="Application.BackgroundImageJFrame" />
+        <item itemvalue="Application.login_form" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bda41053-545c-4ed0-aa4b-1337b5b10e32" name="Default Changelist" comment="" />
+      <created>1601954155909</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601954155909</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="499" y="167" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1602002711072">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="167" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1536.824@0.0.1536.824" timestamp="1602002711072" />
+    <state x="574" y="119" key="#com.intellij.ide.util.MemberChooser" timestamp="1602726878349">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="119" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1602726878349" />
+    <state x="498" y="202" key="#com.intellij.ide.util.TreeFileChooserDialog" timestamp="1602725178380">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="202" key="#com.intellij.ide.util.TreeFileChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1602725178380" />
+    <state x="644" y="297" key="#com.intellij.uiDesigner.palette.ComponentItemDialog.OneOff" timestamp="1601977090786">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="644" y="297" key="#com.intellij.uiDesigner.palette.ComponentItemDialog.OneOff/0.0.1536.824@0.0.1536.824" timestamp="1601977090786" />
+    <state x="473" y="154" key="FileChooserDialogImpl" timestamp="1601954218541">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="473" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1601954218541" />
+    <state width="1493" height="168" key="GridCell.Tab.0.bottom" timestamp="1602729830598">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="168" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602729830598" />
+    <state width="1493" height="168" key="GridCell.Tab.0.center" timestamp="1602729830598">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="168" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1602729830598" />
+    <state width="1493" height="168" key="GridCell.Tab.0.left" timestamp="1602729830598">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="168" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1602729830598" />
+    <state width="1493" height="168" key="GridCell.Tab.0.right" timestamp="1602729830598">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="168" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1602729830598" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1601954222900">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1601954222900" />
+    <state x="647" y="207" key="UIDesigner.ListEditorDialog" timestamp="1602725806793">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="647" y="207" key="UIDesigner.ListEditorDialog/0.0.1536.824@0.0.1536.824" timestamp="1602725806793" />
+    <state x="555" y="292" key="com.intellij.uiDesigner.propertyInspector.editors.string.StringEditorDialog" timestamp="1602558125638">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="555" y="292" key="com.intellij.uiDesigner.propertyInspector.editors.string.StringEditorDialog/0.0.1536.824@0.0.1536.824" timestamp="1602558125638" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/student_information_and_management_system$drive.ic" NAME="drive Coverage Results" MODIFIED="1602218123709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
